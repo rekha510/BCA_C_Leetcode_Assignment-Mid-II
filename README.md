@@ -1,6 +1,6 @@
 # BCA - C LeetCode Assignment - Mid-II
 
-BCA Mid-II Exam ke liye C Language me LeetCode ke questions ke solutions.
+Solutions to LeetCode problems in C Language.
 
 ## Questions Solved
 
